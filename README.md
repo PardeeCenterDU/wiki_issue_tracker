@@ -1,57 +1,64 @@
-# wiki_issue_tracker
-Issue tracker for our MediaWiki- https://pardeewiki.du.edu
+# 📘 MediaWiki Issue Tracker
 
-This repository is to keep track of issues identified and change requests made to our MediaWiki. Anyone may add a report, but please look to see if your issue has already been added!
+Welcome to the official issue tracker for our **[MediaWiki server](https://pardeewiki.du.edu/)**!  
+This repository is **exclusively** used for tracking issues, suggestions, and bugs related to the wiki content and its functionality.
 
-## Adding a report
-Go to "issues"
+---
 
-Confirm your issue/request has not already been reported. If it has not then continue on.
+## 🚀 Purpose
 
-Click on "New Issue"
+This repository serves as a centralized place for users, editors, and admins to:
 
-Please include the following information in the description of the issue/request (Filled Out Example is Below):
+- Report bugs or technical issues encountered on the wiki
+- Suggest edits or improvements to existing wiki pages
+- Propose new pages, sections, or structural changes
+- Raise any other feedback or concerns related to the MediaWiki platform
 
-Short Description of the Issue or Request / Restate of the title
-Date found or requested
-Person found or requested by
-Bug fix, feature request, question, or other? (see below) [This should also be an attached label]
-Description of request or error - Long form and additional details beyond what is in the title
-Steps to replicate the error, if applicable
-Attempt to recreate error on another device and note whether error reproducible
-Screen shot of error message or anything else that is relevant
-Discussion (space for follow-up questions and notes)
-ALWAYS add the "New Issue" label
+---
 
-ALWAYS add collinmeisel & jcubeta as "Assignees"
+## 🛠️ How to Submit an Issue
 
-Add any other labels as appropriate, based off their description
+To report something, follow these steps:
 
-Submit!
+1. Click on the **"Issues"** tab at the top of this page.
+2. Click **"New issue"**.
+3. Choose the appropriate issue template (e.g., Bug Report, Suggestion).
+4. Fill in the required details — be as specific as possible.
+5. Submit the issue.
 
-## Example of an Appropriate Error Report
-Example:
+We'll review and respond as soon as we can!
 
-Short Description: Error adding biographical note
+---
 
-Date found: 10/13/23
+## ✅ Best Practices
 
-Found by: Abraham Lincoln
+When submitting an issue, please include:
 
-Error Type: Crash
+- A clear and concise title
+- Steps to reproduce the issue (if it’s a bug)
+- Page URL or title (if applicable)
+- Screenshots (if helpful)
+- Your suggestion or expected outcome
 
-Description: After opening a note for Leader XYZ's date of birth and typing a clarification, I clicked the "Enter information" button. At that the CADET webpage crashed. When Chrome restarted the window, the CADET page was refreshed and there was no clear indication of whether the information was entered.
+---
 
-Steps to Replicate:
+## 🙋 Who Can Submit
 
-Open CADET
-Selected Leader XYZ's biographical information
-Click "Add Note" on the date of birth
-Type information and click "Enter Information"
-Chrome crashes and restarts, so no error message to screenshot.
+Anyone who uses or maintains the wiki!  
+We welcome feedback from contributors, viewers, and team members.
 
-Reproducible on another device? (Y/N): Yes. 
+---
 
-Screenshot (If possible, paste text directly so that it can be copied or searched within): (Not Shown Here)
+## 🌐 Wiki Link
 
-Discussion: [Intentionally left Blank]
+🔗 [https://pardeewiki.du.edu/](https://pardeewiki.du.edu/)
+
+---
+
+## 📩 Questions?
+
+For private questions or access requests, please contact the wiki administrator directly.
+
+---
+
+Thank you for helping us improve our MediaWiki experience! 🎉
