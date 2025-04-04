@@ -1,7 +1,7 @@
 ---
 name: Editing Request
 about: Suggest an edit or request approval for an edit you've already made
-title: 'Editing request for page- '
+title: Editing request for page [___]
 labels: approve content, general content, suggestion
 assignees: ''
 
