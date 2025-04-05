@@ -27,8 +27,6 @@ To report an issue or suggest a change, please follow these steps:
   6. Add any relevant labels and assignees, if you're able.
   7. Click "Submit new issue."
 
-We’ll review and respond as soon as possible!
-
 ---
 
 ## ✅ Best Practices
@@ -36,17 +34,16 @@ We’ll review and respond as soon as possible!
 When submitting an issue, please include:
 
 - A clear and concise title
-- Steps to reproduce the issue (if it’s a bug)
-- Page URL or title (if applicable)
+- Page URL or title (provide link to the subsection if applicable)
 - Screenshots (if helpful)
 - Your suggestion or expected outcome
-
+- Tag relevant assignees
+  
 ---
 
 ## 🙋 Who Can Submit
 
 Anyone who uses or maintains the wiki!  
-We welcome feedback from contributors, viewers, and team members.
 
 ---
 
