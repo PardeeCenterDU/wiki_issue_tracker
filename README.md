@@ -18,15 +18,16 @@ This repository serves as a centralized place for users, editors, and admins to:
 
 ## 🛠️ How to Submit an Issue
 
-To report something, follow these steps:
+To report an issue or suggest a change, please follow these steps:
 
-1. Click on the **"Issues"** tab at the top of this page.
-2. Click **"New issue"**.
-3. Choose the appropriate issue template (e.g., Bug Report, Suggestion).
-4. Fill in the required details — be as specific as possible.
-5. Submit the issue.
+  1. Click the "Issues" tab at the top of this page.
+  2. Click "New issue."
+  3. Select the "Editing Request" template (recommended for most submissions)— but feel free to start with a blank issue if you prefer.
+  5. Provide detailed and specific information in the template fields.
+  6. Add any relevant labels and assignees, if you're able.
+  7. Click "Submit new issue."
 
-We'll review and respond as soon as we can!
+We’ll review and respond as soon as possible!
 
 ---
 
