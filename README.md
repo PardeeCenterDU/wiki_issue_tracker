@@ -57,8 +57,10 @@ We welcome feedback from contributors, viewers, and team members.
 
 ## 📩 Questions?
 
-For private questions or access requests, please contact the wiki administrator directly.
+For questions or access requests, please contact the wiki administrator:  
+📧 [yutang.xiong@du.edu](mailto:yutang.xiong@du.edu)
 
 ---
+
 
 Thank you for helping us improve our MediaWiki experience! 🎉
