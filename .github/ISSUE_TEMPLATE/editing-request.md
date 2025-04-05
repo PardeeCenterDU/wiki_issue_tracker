@@ -18,14 +18,14 @@ _Which page is this about? (Paste the title or full URL)_
 ## 📝 Description of the Edit
 _Describe what you changed or would like to change. Be as specific as possible._
 
+
 ## 🧠 Reason for the Edit
 _Why is this change necessary? (e.g., fix outdated info, improve clarity, fix formatting, etc.)_
+
 
 ## 📎 Supporting Info (Optional)
 _Sources, screenshots, or links that support the edit/request_
 
-## 🗂️ Affected Section/Template/Category (Optional)
-_If the edit is specific to a section, template, or category, mention it here._
 
 ## 💬 Additional Comments
 _Anything else reviewers should know?_
